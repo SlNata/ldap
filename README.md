@@ -1,1 +1,2 @@
-# ldap
+login - ben
+password - admin
